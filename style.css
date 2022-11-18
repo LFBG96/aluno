@@ -1,0 +1,27 @@
+*{
+    text-align: center;
+}
+body{
+    background-color: rgb(2, 74, 92);
+}
+table{
+    margin: auto;
+    color: white;
+    background-color: black;
+}
+.content{
+    margin: 10px;
+}
+button{
+    margin: 6px;
+    padding: 4px;
+}
+label{
+    color: rgb(255, 255, 255);
+}
+#prin{
+    
+    display: contents;
+    
+}
+
